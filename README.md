@@ -1,17 +1,13 @@
-## Hello world (ʘ‿ʘ)╯
-(⌐⊙_⊙)
+## Hello world  (ʘ‿ʘ)╯
+<!-- (⌐⊙_⊙) -->
+### Short about me:
+I have 5+ years of backend/fullstack experience, most of the time I prefer to work on prisma-express-react stack.
 
-<!--
-**mortezae/mortezae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm currently working as a freelancer, but I'm on the hunt for a new fullstack/backend opportunity or joining a good team.*
+<!-- Ideally I'm looking for financial project/company.* -->
 
-Here are some ideas to get you started:
+### Cool libraries/frameworks I'm curently learning:
+- [lucid](https://github.com/ProtoDigitalUK/lucid) ‌ ‌ ‌ - A modern headless CMS using Kysely and SolidJS
+- [kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [d3fc](https://github.com/d3fc/d3fc) ‌ ‌ ‌ ‌ - Components to build interactive charts with D3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
