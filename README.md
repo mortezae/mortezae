@@ -1,4 +1,4 @@
-## Hello world  (ʘ‿ʘ)╯
+## Hello world ‌ ل(ʘ‿ʘ)╯
 <!-- (⌐⊙_⊙) -->
 ### Short about me:
 I have 5+ years of backend/fullstack experience, most of the time I prefer to work on prisma-express-react stack.
