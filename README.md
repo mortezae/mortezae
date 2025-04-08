@@ -28,9 +28,8 @@
 <p align="left"> <a href="https://github.com/mortezae" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 -->
 
-<!--
-### Cool libraries/frameworks I'm curently learning:
-- [lucid](https://github.com/ProtoDigitalUK/lucid) ‌ ‌ ‌ - A modern headless CMS using Kysely and SolidJS
-- [kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
-- [d3fc](https://github.com/d3fc/d3fc) ‌ ‌ ‌ - Components to build interactive charts with D3
--->
+### "What do you do?"
+- 🌱 I’m currently learning [kysely](https://github.com/kysely-org/kysely), [d3fc](https://github.com/d3fc/d3fc), [prisma](https://prisma.io)
+- 🔭 I’m currently working on developing some eCommerce platform service, like Shopify.
+- 💬 Ask me about **Node.js**, **Socket.IO**, **PostgreSQL**
+
